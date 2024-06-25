@@ -1,4 +1,4 @@
-# Change Log
+# Change Log | Morse Code Translator(MCTT) 
 
 ## Stable Builds
 
