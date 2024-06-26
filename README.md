@@ -10,3 +10,7 @@
   * New design.
   * Some bugs were corrected.
   * Executable file for comfort.
+* 2024-06-26 (v1.5)
+  * Bugs were fully fixed.
+  * From 1.3 to 1.5 because many things were implemented as the menu
+  * Final Command Prompt version.
